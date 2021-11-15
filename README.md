@@ -1,4 +1,4 @@
-# todo-add-vue
+# todo-app-vue
 
 ## Project setup
 ```
